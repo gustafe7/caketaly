@@ -26,6 +26,7 @@ Este projeto é o site oficial da Caketaly — uma vitrine digital onde os clien
 ## Tecnologias utilizadas
 
 - **React + Vite** — interface rápida e responsiva
+- **Node.js** — ambiente de execução do frontend
 - **Tailwind CSS** — design elegante e mobile-first
 - **FastAPI** — backend em Python para servir o cardápio e gerenciar pedidos
 - **Supabase** — banco de dados com todas as informações dos produtos
