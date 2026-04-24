@@ -625,10 +625,15 @@ export default function Cardapio() {
                   <input name="data_retirada" type="datetime-local" value={form.data_retirada} onChange={handleChange} required
                     className="w-full border border-stone-200 px-3 py-2.5 text-sm text-stone-700 focus:outline-none focus:border-stone-400" />
                 </div>
-                <button type="submit"
-                  className="bg-green-600 hover:bg-green-700 text-white py-3 text-xs tracking-widest uppercase transition mt-1">
+                {/* <button
+                  type="submit"
+                  className="bg-green-600 hover:bg-green-700 text-white py-3 text-xs tracking-widest uppercase transition mt-1"
+                >
                   Finalizar pelo WhatsApp
-                </button>
+                </button> */}
+                <p className="text-xs text-stone-400 text-center tracking-widest uppercase mt-1">
+                  Em breve disponível
+                </p>
               </form>
             </div>
           </div>
