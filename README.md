@@ -63,6 +63,5 @@ npm run dev
 
 ## Contato
 
-📍 Rua Cinquenta e Sete, 246 — Cesarão, Santa Cruz, Rio de Janeiro  
 📱 [WhatsApp: (21) 98832-1003](https://wa.me/5521988321003)  
 📸 [Instagram: @caketaly](https://www.instagram.com/caketaly/)
