@@ -33,35 +33,6 @@ Este projeto é o site oficial da Caketaly — uma vitrine digital onde os clien
 - **Vercel** — hospedagem do frontend
 - **Railway** — hospedagem do backend
 
----
-
-## Como rodar localmente
-
-**Backend**
-```bash
-cd backend
-python -m venv venv
-venv\Scripts\activate        # Windows
-source venv/bin/activate     # Mac/Linux
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-```
-
-Crie o arquivo `backend/.env`:
-```
-SUPABASE_URL=sua_url
-SUPABASE_KEY=sua_chave_anon
-```
-
-**Frontend**
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
-
 ## Contato
 
 📱 [WhatsApp: (21) 98832-1003](https://wa.me/5521988321003)  
